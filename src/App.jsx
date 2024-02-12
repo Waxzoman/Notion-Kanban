@@ -1,11 +1,11 @@
-import NotionKanban from './components/kanban/NotionKanban'
 import './App.css'
+import { NotionKanban } from './components/kanban/NotionKanban'
 
 function App() {
-  c
   return (
     <>
       <NotionKanban />
+      
     </>
   )
 }
